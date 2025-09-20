@@ -1,8 +1,6 @@
 <h1 align="center">🪶 Pluma</h1>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e9e00982-7ee9-425c-bc9e-114c0eb989a7" alt="Pluma - o dragão de papel" width="250"/>
-</p>
+![pluma](https://github.com/user-attachments/assets/576ab633-f777-4ef6-9ff5-745da143dfb4)
 
 ---
 
