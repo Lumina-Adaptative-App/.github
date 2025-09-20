@@ -1,8 +1,17 @@
-<h1 align="center">Pluma</h1>
+<h1 align="center">🪶 Pluma</h1>
 
 <p align="center">
-  <strong>Desvende a magia do inglês com Pluma, o dragão de papel, em um aplicativo onde o aprendizado se desdobra como uma aventura literária.
-</strong>
+  <img src="https://github.com/user-attachments/assets/e9e00982-7ee9-425c-bc9e-114c0eb989a7" alt="Pluma - o dragão de papel" width="250"/>
 </p>
 
-![luna_](https://github.com/user-attachments/assets/daebbc24-e205-45cc-b3f5-d80621ba7a72)
+---
+
+<p align="center">
+  <i>“Pluma nasceu de uma folha dobrada e do sopro das histórias ganhou vida. Leve como papel, com asas de páginas e rastro de tinta no ar, ele simboliza curiosidade, aprendizado e a magia de descobrir novos mundos. Mais que um mascote, Pluma é um guia para aprender de forma leve, criativa e inspiradora.”</i>
+</p>
+
+---
+
+<p align="center">
+  <sub>© 2025 Pluma AI – um mascote para inspirar aprendizado.</sub>
+</p>
