@@ -1,4 +1,4 @@
-<h1 align="center">Littera</h1>
+<h1 align="center">Pluma</h1>
 
 <p align="center">
   <strong>An AI-powered English learning app with adaptive lessons and interactive conversations guided by Teacher Luna!</strong>
