@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <i>“Verbis nasceu de um livro mágico e do sopro das histórias ganhou vida. Guardião das palavras e dos segredos da língua inglesa, ele carrega nas páginas o brilho do conhecimento. Com sua capa encantada e páginas cintilantes, Verbis simboliza curiosidade, aprendizado e a magia de descobrir novos mundos. Mais que um mascote, Verbis é um guia para aprender de forma leve, criativa e inspiradora.”</i>
+  <i>“Verbis é um livro mágico e do sopro das histórias ganhou vida. Guardião das palavras e dos segredos da língua inglesa, ele carrega nas páginas o brilho do conhecimento. Com sua capa encantada e páginas cintilantes, Verbis simboliza curiosidade, aprendizado e a magia de descobrir novos mundos. Mais que um mascote, Verbis é um guia para aprender de forma leve, criativa e inspiradora.”</i>
 </p>
 
 ---
