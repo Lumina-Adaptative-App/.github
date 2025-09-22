@@ -1,4 +1,4 @@
-<h1 align="center">Verbis – The Magic Book</h1>
+<h1 align="center">Verbis</h1>
 
 ![verbis_mascote](https://github.com/user-attachments/assets/a772ccf7-9798-4f86-a70e-2fff515ebbd9)
 
