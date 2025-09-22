@@ -1,15 +1,15 @@
-<h1 align="center">🪶 Pluma</h1>
+<h1 align="center">Verbis – The Magic Book</h1>
 
-![mascote](https://github.com/user-attachments/assets/bd945fb5-89d9-4d2c-a72d-36a7d6885a03)
+![verbis_mascote](https://github.com/user-attachments/assets/a772ccf7-9798-4f86-a70e-2fff515ebbd9)
 
 ---
 
 <p align="center">
-  <i>“Pluma nasceu de um livro mágico e do sopro das histórias ganhou vida. Leve como papel, com asas de páginas e rastro de tinta no ar, ele simboliza curiosidade, aprendizado e a magia de descobrir novos mundos. Mais que um mascote, Pluma é um guia para aprender de forma leve, criativa e inspiradora.”</i>
+  <i>“Verbis nasceu de um livro mágico e do sopro das histórias ganhou vida. Guardião das palavras e dos segredos da língua inglesa, ele carrega nas páginas o brilho do conhecimento. Com sua capa encantada e páginas cintilantes, Verbis simboliza curiosidade, aprendizado e a magia de descobrir novos mundos. Mais que um mascote, Verbis é um guia para aprender de forma leve, criativa e inspiradora.”</i>
 </p>
 
 ---
 
 <p align="center">
-  <sub>© 2025 Pluma AI – um mascote para inspirar aprendizado.</sub>
+  <sub>© 2025 Verbis AI – um mascote para inspirar aprendizado.</sub>
 </p>
