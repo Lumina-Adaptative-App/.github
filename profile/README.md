@@ -1,15 +1,13 @@
-<h1 align="center">Verbis</h1>
-
-![verbis_mascote](https://github.com/user-attachments/assets/a772ccf7-9798-4f86-a70e-2fff515ebbd9)
+![lumina](https://github.com/user-attachments/assets/8d9434d5-e080-41a1-b4d7-e0eb26c4602e)
 
 ---
 
 <p align="center">
-  <i>“Verbis é um livro mágico e do sopro das histórias ganhou vida. Guardião das palavras e dos segredos da língua inglesa, ele carrega nas páginas o brilho do conhecimento. Com sua capa encantada e páginas cintilantes, Verbis simboliza curiosidade, aprendizado e a magia de descobrir novos mundos. Mais que um mascote, Verbis é um guia para aprender de forma leve, criativa e inspiradora.”</i>
+  <i>“Lumina is the radiant guide in your language learning journey. Like the aurora that illuminates the night sky, it reveals the beauty of English through captivating stories and natural conversations. More than an app, Lumina is your companion — transforming learning into an enchanting experience where every word shines with possibility.”</i>
 </p>
 
 ---
 
 <p align="center">
-  <sub>© 2025 Verbis AI – um mascote para inspirar aprendizado.</sub>
+  <sub>© 2025 Lumina – Illuminate your English</sub>
 </p>
