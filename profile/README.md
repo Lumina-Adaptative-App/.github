@@ -5,5 +5,5 @@
 </p>
 
 <h3 align="center">
-  The app that adapts to you!<br/>
+  The app that adapts to you !<br/>
 </h3>
